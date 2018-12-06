@@ -1,0 +1,1050 @@
+[
+    [
+        "/Users/rkou/dev/myeasy/force-app",
+        {
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544068606476,
+            "changeTime": 1544068606476,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main",
+        {
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544068606476,
+            "changeTime": 1544068606476,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1544076458529,
+            "changeTime": 1544076458529,
+            "contentHash": "3ec1b11c6ac8828525ced4ef527a23a20f4b1dc2"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1544068606476,
+            "changeTime": 1544068606476,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy",
+        {
+            "sourcePath": "/Users/rkou/dev/myeasy",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1544068651363,
+            "changeTime": 1544068651363,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1544076458320,
+            "changeTime": 1544076458320,
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/State.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6641,
+            "modifiedTime": 1544076458329,
+            "changeTime": 1544076458329,
+            "contentHash": "97450095d6877279e7c0d8dfd9b0931720af9d18"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1544076458332,
+            "changeTime": 1544076458332,
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets/Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1674,
+            "modifiedTime": 1544076458334,
+            "changeTime": 1544076458334,
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/Reservation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1983,
+            "modifiedTime": 1544076458347,
+            "changeTime": 1544076458347,
+            "contentHash": "c3340c70a0e1a81610759e6c926422eecd13f6da"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1544076458348,
+            "changeTime": 1544076458348,
+            "contentHash": "c0c0a535bc378420d7ae804f1195e6de33bef4eb"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1544076458348,
+            "changeTime": 1544076458348,
+            "contentHash": "d20213c5a36261a97bbefe05867a138be33c8f0e"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1544076458349,
+            "changeTime": 1544076458349,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1544076458349,
+            "changeTime": 1544076458349,
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 497,
+            "modifiedTime": 1544076458350,
+            "changeTime": 1544076458350,
+            "contentHash": "00344b4aca849ec6030feeb736bf51cbad91d8df"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1544076458351,
+            "changeTime": 1544076458351,
+            "contentHash": "1ef0adbe7b465984dba27403b430e34466621ba3"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Space__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1544076458351,
+            "changeTime": 1544076458351,
+            "contentHash": "76cd34faa5ab3268cd5c2c5cd9064d8d1666a21b"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1544076458352,
+            "changeTime": 1544076458352,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1544076458352,
+            "changeTime": 1544076458352,
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1544076458353,
+            "changeTime": 1544076458353,
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Total_Number_of_Guests__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields/Total_Number_of_Guests__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1544076458353,
+            "changeTime": 1544076458353,
+            "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/Market__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/Market__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1973,
+            "modifiedTime": 1544076458371,
+            "changeTime": 1544076458371,
+            "contentHash": "b64b93697a3dc9ef5f78937e6a7837b9a4cf04a7"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1544076458371,
+            "changeTime": 1544076458371,
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1544076458372,
+            "changeTime": 1544076458372,
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1544076458373,
+            "changeTime": 1544076458373,
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1544076458373,
+            "changeTime": 1544076458373,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields/Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1544076458374,
+            "changeTime": 1544076458374,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/Space__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1980,
+            "modifiedTime": 1544076458390,
+            "changeTime": 1544076458390,
+            "contentHash": "9d7218ddfdfc355f4a9fe81cbcf05b63bea03abc"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2331,
+            "modifiedTime": 1544076458391,
+            "changeTime": 1544076458391,
+            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1544076458391,
+            "changeTime": 1544076458391,
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 589,
+            "modifiedTime": 1544076458392,
+            "changeTime": 1544076458392,
+            "contentHash": "ad0ed03da50bdbdca9dbbb43e06577ca1edcc274"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Maximum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1544076458392,
+            "changeTime": 1544076458392,
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Minimum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1544076458393,
+            "changeTime": 1544076458393,
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Picture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 315,
+            "modifiedTime": 1544076458394,
+            "changeTime": 1544076458394,
+            "contentHash": "7533f19b23213d1e671b85b59211f1cecd4ab814"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1544076458394,
+            "changeTime": 1544076458394,
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Predicted_Demand__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1544076458395,
+            "changeTime": 1544076458395,
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields/Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1544076458395,
+            "changeTime": 1544076458395,
+            "contentHash": "23faa3d906c97d6940a714613c9e91858024c23e"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Contact/fields/Reservation_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Contact/fields/Reservation_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1544076458408,
+            "changeTime": 1544076458408,
+            "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1544076458415,
+            "changeTime": 1544076458415,
+            "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9747,
+            "modifiedTime": 1544076458424,
+            "changeTime": 1544076458424,
+            "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9456,
+            "modifiedTime": 1544076458431,
+            "changeTime": 1544076458431,
+            "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Space__c-Space Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Space__c-Space Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3208,
+            "modifiedTime": 1544076458434,
+            "changeTime": 1544076458434,
+            "contentHash": "5ec5808fc48457ce90c31d4d5774b9bc94178a98"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Market__c-Market Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2915,
+            "modifiedTime": 1544076458438,
+            "changeTime": 1544076458438,
+            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9771,
+            "modifiedTime": 1544076458445,
+            "changeTime": 1544076458445,
+            "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Reservation__c-Reservation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts/Reservation__c-Reservation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3470,
+            "modifiedTime": 1544076458451,
+            "changeTime": 1544076458451,
+            "contentHash": "a237b4f816dbf67685980fb16cc382f01d73902f"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Market__c-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Market__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 429,
+            "modifiedTime": 1544076458458,
+            "changeTime": 1544076458458,
+            "contentHash": "de63ed5e9a9a2a7721b4b55009c86c3fb20fa58f"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/City__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/City__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1544076458458,
+            "changeTime": 1544076458458,
+            "contentHash": "1f5274271c0d359ba0f5b606c8df384bbd619360"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Country__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Country__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1544076458459,
+            "changeTime": 1544076458459,
+            "contentHash": "aa5e3c8e5b30415c3dfac2633a7e7215e92d8c90"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Predicted_Booking_Rate__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Predicted_Booking_Rate__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 232,
+            "modifiedTime": 1544076458460,
+            "changeTime": 1544076458460,
+            "contentHash": "9a74547c25d6e685434886f310ca5899f25adb3f"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/State__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/State__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1544076458460,
+            "changeTime": 1544076458460,
+            "contentHash": "2b01117b44c0d352267e976559d1abcfef854d3e"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Total_Daily_Booking_Rate__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US/Total_Daily_Booking_Rate__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1544076458461,
+            "changeTime": 1544076458461,
+            "contentHash": "83adf603b90a61dac66a960ac36d9c901b64714d"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Space__c-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Space__c-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1544076458477,
+            "changeTime": 1544076458477,
+            "contentHash": "711bd91edf2e93c6fcb20e8e7c8e4d6051f538be"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Category__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Category__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1778,
+            "modifiedTime": 1544076458478,
+            "changeTime": 1544076458478,
+            "contentHash": "62bfdef4bee3737e3ad26b8fb19af781c5b12c24"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Daily_Booking_Rate__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Daily_Booking_Rate__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1544076458479,
+            "changeTime": 1544076458479,
+            "contentHash": "193b1087d71f8c7b2369abaf00e9f9a94d520788"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Market__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Market__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 258,
+            "modifiedTime": 1544076458509,
+            "changeTime": 1544076458509,
+            "contentHash": "46228f20215860242550b9386b8aa7b64b5e1a1f"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Maximum_Capacity__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Maximum_Capacity__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1544076458510,
+            "changeTime": 1544076458510,
+            "contentHash": "37cf6bf8be0c2dc199eb4a77b949d0f9ff71e5f1"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Minimum_Capacity__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Minimum_Capacity__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1544076458511,
+            "changeTime": 1544076458511,
+            "contentHash": "beefce860e97914e3e580da20d742801b78d4be2"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Picture_URL__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Picture_URL__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1544076458513,
+            "changeTime": 1544076458513,
+            "contentHash": "ea5b077b682eada3ef109a67890c36cb74c66876"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Predicted_Booking_Rate__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Predicted_Booking_Rate__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 232,
+            "modifiedTime": 1544076458513,
+            "changeTime": 1544076458513,
+            "contentHash": "9a74547c25d6e685434886f310ca5899f25adb3f"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Predicted_Demand__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Predicted_Demand__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1544076458514,
+            "changeTime": 1544076458514,
+            "contentHash": "d2585549e31bd7c76597599bd1b4cc092b89b2ab"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Type__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US/Type__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1544076458515,
+            "changeTime": 1544076458515,
+            "contentHash": "c18ae77a9eff450572251270fb8813330e1318c7"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8862,
+            "modifiedTime": 1544076458532,
+            "changeTime": 1544076458532,
+            "contentHash": "4f8484c41ee60222d485e0aaa846888db3f82444"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8866,
+            "modifiedTime": 1544076458539,
+            "changeTime": 1544076458539,
+            "contentHash": "72a89b8c7aadaf7659ac29158dc4a3e972eacf25"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23386,
+            "modifiedTime": 1544076458564,
+            "changeTime": 1544076458564,
+            "contentHash": "957efacf020f4c5ca96b4ea4fd6c10e21cf3d589"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9202,
+            "modifiedTime": 1544076458572,
+            "changeTime": 1544076458572,
+            "contentHash": "6e4fd0636b4c00f56963e1260015457665f31534"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544076458334,
+            "changeTime": 1544076458334,
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544076458347,
+            "changeTime": 1544076458347,
+            "contentHash": "b62655c5aa63e2a96a2c0536a4d4441a2f70bc56"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544076458407,
+            "changeTime": 1544076458407,
+            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Reservation__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1544076458353,
+            "changeTime": 1544076458353,
+            "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544076458371,
+            "changeTime": 1544076458371,
+            "contentHash": "0ff9e90f61243a7eeb33f2abb884fc6a18867054"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Market__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544076458373,
+            "changeTime": 1544076458373,
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544076458390,
+            "changeTime": 1544076458390,
+            "contentHash": "641de536c2ed4ba826917cf424c10bce434ff161"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Space__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1544076458395,
+            "changeTime": 1544076458395,
+            "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Contact/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544076458407,
+            "changeTime": 1544076458407,
+            "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objects/Contact",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544076458407,
+            "changeTime": 1544076458407,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1544076458451,
+            "changeTime": 1544076458451,
+            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Market__c-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1544076458460,
+            "changeTime": 1544076458460,
+            "contentHash": "697f8857b15e8bbc6a3e2657271e49bdd963c889"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544076458476,
+            "changeTime": 1544076458476,
+            "contentHash": "09cdb380ffa4b7b8fd4e5c0c9ffe6b87d40d1c14"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/objectTranslations/Space__c-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1544076458515,
+            "changeTime": 1544076458515,
+            "contentHash": "61363af0f3fa4ae59b251cc633821c7bb2bd9adb"
+        }
+    ],
+    [
+        "/Users/rkou/dev/myeasy/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rkou/dev/myeasy/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544076458572,
+            "changeTime": 1544076458572,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
